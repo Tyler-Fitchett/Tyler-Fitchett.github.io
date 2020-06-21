@@ -1,4 +1,4 @@
-## Welcome to my ePortfolio Oh yeah yeah
+## Welcome to my ePortfolio
 
 Here I will include all of the artifacts for the CS 499 Capstone class at Southern New Hampshire University
 
