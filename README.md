@@ -55,7 +55,7 @@ the efficiency to make it a more professionally acceptable program.
 
 ```
 
-[Category 1 Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img2.png)
+[Category 2 Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img2.png)
 
 ```markdown
 
@@ -70,30 +70,11 @@ can understand and use in a professional environment.
 
 ```
 
-[Category 1 Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img3.png)
+[Category 3 Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img3.png)
 
 
+### Informal Code Review
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Here is a link to my informal code review]
+My code review will be included in a zip folder in my brightspace submission.
 
 
