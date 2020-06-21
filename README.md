@@ -78,9 +78,9 @@ can understand and use in a professional environment.
 My code review will be included in a zip folder in my brightspace submission.
 
 
-### Enhancements
+## Enhancements
 
-## Enhancement 1, Software design and engineering:
+### Enhancement 1, Software design and engineering:
 
 ```markdown
 
@@ -106,6 +106,7 @@ show how it all works.
 ```
 
 [Here is a link to the original code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/diceRollerOriginal.py)
+--
 [Here is a link to the enhanced code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/RollingSim.py)
 
 
