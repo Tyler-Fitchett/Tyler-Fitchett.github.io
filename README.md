@@ -108,6 +108,7 @@ show how it all works.
 [Here is a link to the original code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/diceRollerOriginal.py)
 --
 [Here is a link to the enhanced code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/RollingSim.py)
+--
 
 
 ### Enhancement 2, Algorithms and data structures:
@@ -142,7 +143,41 @@ these simple programs more advanced.
 [Here is a link to the original code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/calculatorOriginal.py)
 --
 [Here is a link to the enhanced code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/Calculator.py)
+--
+
+### Enhancement 3, Databases:
+
+```markdown
+For the third artifact I chose to work on a previous project I had completed here at SNHU. 
+This was a database manager that I worked on that would take in curl input to execute simple 
+CURL functions on a mongoDB database. I chose to include this in my portfolio because it 
+was originally a very difficult project for me, but I was able to learn how to successfully 
+complete it and I believe the skillset I acquired here is important to showcase. Specifically 
+I think the way that each of the curl functions differs shows that I was able to fully understand 
+the capabilities of this software and implement into a working program. I improved the artifact 
+by creating a separate program that runs a menu allowing a user to select which crud function 
+they would like to perform, then outputting the specific curl command that corresponds that 
+function. I did this because it can be hard to remember the curl commands and by creating this 
+menu that does it automatically, this can save a lot of time when adding to or editing the database.
+
+ As I was modifying this artifact I gained a new appreciation for the people that create automation 
+for ease of use. I needed to gain a complete understanding of how every aspect of the database 
+program worked in order to automate the curl inputs correctly. I believe that I was able to meet 
+the original course objectives that I set out. I was able to design and develop a more professional 
+technology targeted at a consumer audience rather than for developers. The biggest challenges that 
+I faced during this enhance were in the syntax of the curl function. I needed to make sure that the 
+program allowed for variations in user input and would still be able to correctly determine what 
+the curl would be. Many times I messed up how the input was taken in and lost a lot of time in 
+correcting that. 
+In order to run the code, both programs need to be running on the same computer, and the ‘server’ 
+computer needs to have a mongodb dataset named market with a collection named stocks. From there the 
+‘client’ code called curlMenu can be run and will properly execute the inputs.
 
 
+```
 
+[Here is a link to the original database code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/mongoCode.py)
+--
+[Here is a link to the new menu code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/curlMenu.py)
+--
 
