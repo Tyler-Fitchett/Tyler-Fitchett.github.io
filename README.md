@@ -110,3 +110,39 @@ show how it all works.
 [Here is a link to the enhanced code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/RollingSim.py)
 
 
+### Enhancement 2, Algorithms and data structures:
+```markdown
+This artifact was a simple calculator program that I found on an open source GitHub repository. 
+This program was originally created on Jan 28, 2018. I chose this artifact to include in my 
+portfolio because I think it is a simple program that anyone with beginners knowledge of python 
+will be able to understand and recreate. I think the menu system is something that I used to 
+struggle with understanding when I first started out programming and I think this is a good way 
+to show how I have progressed throughout the program. The improvements I made to the program 
+were simple, but significant. Firstly, I added in extra functions to the original calculator 
+portion. The calculator can now perform simple trig functions such a Sine, Cosine and Tangent. 
+The next thing I did was to add a second menu of options for converting numbers. Now there are 
+three separate menus. The first menu was the main menu and the two submenus work as the calculator 
+menu and the converter menu. I then went through and added different functions for converting 
+numbers to different values. These conversions are what I figured would be the most used 
+conversions and the most helpful to include in this calculator program. I feel that I did 
+successfully meet the course objectives that I originally set out to meet. I changed my enhancement 
+slightly because the original enhancement that I proposed would not successfully showcase my 
+ability. What I had planned on doing was to make this calculator a standalone executable file, 
+but what that involved was just importing functions that were created by other people and did 
+not showcase what I could do. I learned while improving this artifact that even though some things 
+may seem simple at first, there are ways to use experience to greatly enhance them to be much 
+more. When I first started programming, I would have massively struggled to get the original 
+calculator portion of this program working, now I am able to create multiple branches and submenus 
+all with their own set of functions. This has been a great experience for me because I am now 
+normally working with much more complex functions and I had forgotten what you can do to make 
+these simple programs more advanced.
+
+```
+
+[Here is a link to the original code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/calculatorOriginal.py)
+--
+[Here is a link to the enhanced code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/Calculator.py)
+
+
+
+
