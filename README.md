@@ -78,3 +78,34 @@ can understand and use in a professional environment.
 My code review will be included in a zip folder in my brightspace submission.
 
 
+### Enhancements
+
+## Enhancement 1, Software design and engineering:
+
+```markdown
+
+This artifact started out as an open source program for a coin flipping game. It is a fairly basic 
+game that takes in a selected number of players, then rolls a selected amount of die for each player. 
+The original program would output the results of the rolls and stop there. I decided to include this 
+artifact in my portfolio because it was something that I believe everyone could wrap their head 
+around. It was not too complicated in any area and it was a simple game to complete quickly. I 
+chose to make improvements not on the core gameplay, but on the results of the game. What I did 
+was to have the program be able to determine who was the winner, or in the case of multiple winner, 
+decide who tied. The program would then upload the results to a SQL server database that tracked 
+the leaderboard. If the winner had already been added to the leaderboard then the existing value 
+would be updated, if they were not previously there the program would add them into the database 
+and start their scores at zero. While completing this enhancement I found that what I was 
+undertaking was slightly harder than I had originally anticipated. It really became difficult to 
+track the winner as the number of users grew to larger numbers, but I believe I was able to get 
+it right with my use of lists and if statements. I will be attaching a short video in the zip folder 
+where I showcase the capabilities of the program. Since the database was hosted on my computer 
+and the program was connecting to the local instance, it may not be possible to get the entire 
+program working on a different computer at this time. This is why I will be including the video to 
+show how it all works.  
+
+```
+
+[Here is a link to the original code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/diceRollerOriginal.py)
+[Here is a link to the enhanced code](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/RollingSim.py)
+
+
