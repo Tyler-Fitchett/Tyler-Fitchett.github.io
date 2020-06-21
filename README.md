@@ -38,13 +38,15 @@ that this will elevate this simple game into something that can be more advanced
 over and over. Now it will be more like a game with the leaderboard system. There can also be even more 
 added on later now that there is a leaderboard such as new games or incentives based on leaderboard position.
 
+```
+
 [Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img1.png)
 
 
 
 
 
-```
+
 
 
 
