@@ -43,9 +43,34 @@ added on later now that there is a leaderboard such as new games or incentives b
 [Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img1.png)
 
 
+```markdown
 
+#Category Two, Algorithms and data structures:
+For this category I am using an open source calculator program that I found on GitHub. This program in 
+just a simple calculator that has add, subtract, multiply and mod functions. I plan to add new algorithms 
+to the program that can perform more advanced math problems such as trig functions. I will also add in a 
+new menu that is easier to use and showcases all the capabilities of the calculator. I believe this showcases 
+my knowledge of using algorithmic principles to improve upon the quality of the work and to also increase 
+the efficiency to make it a more professionally acceptable program.
 
+```
 
+[Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img2.png)
+
+```markdown
+
+#Category Three, Databases:
+For this category I am going to use the final project from the most recent course I took at SNHU. 
+This program has api calls for a mongodb database to run through the basic function for a market stocks 
+database. The improvements that I plan to make on this project is to create an interface that can help a 
+user go through the functions of create, read, add and delete within the database without having to input 
+the curl functions themselves. I believe this showcases my ability to implement computer solutions to 
+accomplish industry specific goals. The goals here being a functioning product that the average person 
+can understand and use in a professional environment.
+
+```
+
+[Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img3.png)
 
 
 
