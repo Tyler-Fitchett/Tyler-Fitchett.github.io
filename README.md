@@ -28,29 +28,30 @@ that it was involved in. When I first started out in the program I had extremely
 data structures and algorithms. I was barely able to put together simple math algorithms. This has been the 
 thing that I feel I have improved most on throughout my time in the program. I am now able to put together 
 multiple complex algorithms behind a set of data structures that come together as a fully functioning 
-professional program. I believe this is showcased very well in the artifacts included below. Software engineering 
-is actually something that I learned most about during my summer internships. This is where I was able to work 
-with professionals at developing functioning pieces of software that would be impleted into use at the company. 
-For example I was able to help develop a piece of software that would help to plan events for employees at the 
-company. I would loop database and security together here because I gained the most knowledge about both of them 
-at the same time. Not only did I learn much about databases in my coursework, I was able to work with it 
-professionally in my internship to develop a secure database to monitor server status. It was extremely 
-important to keep security in mind as we were developing the database because it was going to contain very 
-sensitive information about the status of the companies servers. 
+professional program. I believe this is showcased very well in the artifacts included below. Software 
+engineering is actually something that I learned most about during my summer internships. This is where 
+I was able to work with professionals at developing functioning pieces of software that would be impleted 
+into use at the company. For example I was able to help develop a piece of software that would help to 
+plan events for employees at the company. I would loop database and security together here because I 
+gained the most knowledge about both of them at the same time. Not only did I learn much about databases 
+in my coursework, I was able to work with it professionally in my internship to develop a secure database 
+to monitor server status. It was extremely important to keep security in mind as we were developing the 
+database because it was going to contain very sensitive information about the status of the companies servers. 
 
 
 My three artifacts below are showcases of just some of the skills that I was able to develop while complete 
 the computer science program. Firstly I chose a simple dice game to showoff software design. This came out to 
 be a fully functioning game that worked in tandem with a database that kept track of a running leaderboard. 
 The skills showcased in this artifact reinforce my knowledge of software design. The second artifact started 
-out as a simple calculator with the most basic functions. I was able to showcase my knowledge of data structures 
-and algorithms in both this and the first artifact. In the calculator program I was able to add much more 
-complex functions to show off my knowledge of how these simple algorims work. Lastly I included an artifact 
-about databases. While my first artifact included work on a database, that was not the focus. This third artifact 
-focused solely on the basic create, read, update and delete functions that all databases should posses. I belive 
-I accomplished my original goal of making an interactive menu system that walked a user through these functions 
-and output them to the database to get them completed. I think that these three artifacts combined were able to 
-sufficiently showcase the skills that I have learned in my time as a computer science student.
+out as a simple calculator with the most basic functions. I was able to showcase my knowledge of data 
+structures and algorithms in both this and the first artifact. In the calculator program I was able to 
+add much more complex functions to show off my knowledge of how these simple algorims work. Lastly 
+I included an artifact about databases. While my first artifact included work on a database, that was 
+not the focus. This third artifact focused solely on the basic create, read, update and delete functions 
+that all databases should posses. I belive I accomplished my original goal of making an interactive menu 
+system that walked a user through these functions and output them to the database to get them completed. 
+I think that these three artifacts combined were able to sufficiently showcase the skills that I have 
+learned in my time as a computer science student.
 
 
 
