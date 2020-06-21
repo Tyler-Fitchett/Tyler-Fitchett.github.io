@@ -40,7 +40,7 @@ added on later now that there is a leaderboard such as new games or incentives b
 
 ```
 
-[Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img1.png)
+![Refinement Plan](https://github.com/Tyler-Fitchett/Tyler-Fitchett.github.io/blob/master/img1.png)
 
 
 
